@@ -49,4 +49,4 @@ Food_calories — это интерактивная страница, на к�
 </details>
 
 ## Ссылка на сайт:
-stepvn.github.io/Food_Calories/
+https://stepvn.github.io/Food_Calories/
